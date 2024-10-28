@@ -101,7 +101,7 @@ I'm **Wail Al-Asad**, a passionate software developer and Ph.D. student speciali
 [//]: <> (## 📈 GitHub Stats)
 
 [//]: <> (![Your GitHub Stats])
-[//]: <> ((https://cgithub-readme-stats-alpha-inky.vercel.app/api?username=wail-asad&show_icons=true&theme=radical))
+[//]: <> (https://github-readme-stats-alpha-inky.vercel.app/api?username=wail-asad&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 
