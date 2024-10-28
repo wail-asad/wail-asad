@@ -84,7 +84,7 @@ I'm **Wail Al-Asad**, a passionate software developer and Ph.D. student speciali
 
 - **Research Focus**: Resource allocation with Deep Reinforcement Learning (DRL).
 
-### **M.Sc. in Telecommunication Engineering** - *Xidian University, Xi’an, Shaanxi (China)*
+### **M.Sc. in Telecommunication Engineering** - *Xidian University, Xi’an, China*
 
 *2021 - 2024*
 
