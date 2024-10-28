@@ -98,9 +98,9 @@ I'm **Wail Al-Asad**, a passionate software developer and Ph.D. student speciali
 - **English**
 - **Chinese**
 
-## 📈 GitHub Stats
+[//]: <> (## 📈 GitHub Stats)
 
-![Your GitHub Stats](https://github-readme-stats-alpha-inky.vercel.app/api?username=wail-asad&show_icons=true&theme=radical)
+[//]: <> (![Your GitHub Stats](https://github-readme-stats-alpha-inky.vercel.app/api?username=wail-asad&show_icons=true&theme=radical))
 
 ## 🌐 Connect with Me
 
