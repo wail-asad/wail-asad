@@ -99,7 +99,7 @@ I'm **Wail Al-Asad**, a passionate software developer and Ph.D. student speciali
 - **Chinese**
 
 ## 📈 GitHub
-![Top Langs](https://github-readme-stats-alpha-inky.vercel.app/api/top-langs/?username=wail-asad)
+![Top Langs](https://github-readme-stats-alpha-inky.vercel.app/api/top-langs/?username=wail-asad&size_weight=0.5&count_weight=0.5)
 ![Top Langs](https://github-readme-stats-alpha-inky.vercel.app/api?username=wail-asad)
 
 [//]: <> (![Your GitHub Stats])
