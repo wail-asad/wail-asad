@@ -1,15 +1,18 @@
 # Hi there 👋
 
-I'm **Wail Al-Asad**, a passionate software developer and Ph.D. student specializing in resource allocation with Deep Reinforcement Learning (DRL). I believe in the principle of "Don't Repeat Yourself" (DRY) and prioritize performance and security in all my projects. I strive to simplify complex problems, creating solutions that are efficient, centralized, and cost-effective.
+I'm **Wail Al-Asad**, a passionate software developer and a graduated student specializing in resource allocation with Deep Reinforcement Learning (DRL) in 6G communication system. I believe in the principle of "Don't Repeat Yourself" (DRY) and prioritize performance and security in all my projects. I strive to simplify complex problems, creating solutions that are efficient, centralized, and cost-effective.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently pursuing my Ph.D. in **Computer Science** at **Zhejiang University of Technology**, China, focusing on resource allocation using DRL.
 - 🌱 I’m currently learning advanced techniques in AI and machine learning.
-- 👯 I’m looking to collaborate on projects related to AI, DRL, and resource allocation.
-- 💬 Ask me about Python, Django, DRL, React, Next.js, and Go.
+- 👯 I’m looking to collaborate on projects related to Beamforming, MIMO & RIS Communication, AI, DRL, and resource allocation.
+- 💬 Ask me about Matlab, Python, Django, DRL, React, Next.js, and Go.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love anime movies like **Detective Conan**.
+  
+## Publications:  
+[1] W. Al-Asad, W.-X. Long, M. Moretti, and R. Chen, “Low-Overhead Channel Estimation and Beamforming with Near/Far-Field Connection for Extra-Large RIS Communications,” in *GLOBECOM 2024 – 2024 IEEE Global Communications Conference*, 2024, pp. 674–679. [DOI:10.1109/GLOBECOM52923.2024.10901452](https://doi.org/10.1109/GLOBECOM52923.2024.10901452)
+
 
 ## 🛠 Skills
 
