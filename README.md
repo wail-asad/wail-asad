@@ -81,15 +81,11 @@ I'm **Wail Al-Asad**, a passionate software developer and a graduated student sp
 
 ## 🎓 Education
 
-### **Ph.D. in Computer Science** - *Zhejiang University of Technology, Hangzhou, China*
-
-*2024 - Present*
-
-- **Research Focus**: Resource allocation with Deep Reinforcement Learning (DRL).
-
 ### **M.Sc. in Telecommunication Engineering** - *Xidian University, Xi’an, China*
 
 *2021 - 2024*
+
+- **Research Focus**: XL-RIS Beamforming and Channel Estimation.
 
 ### **B.Sc. in Electrical Engineering** - *Ibb University, Ibb, Yemen*
 
