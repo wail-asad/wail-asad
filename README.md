@@ -9,6 +9,18 @@ I'm **Wail Al-Asad**, a passionate software developer and a graduated student sp
 - 💬 Ask me about Matlab, Python, Django, DRL, React, Next.js, and Go.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love anime movies like **Detective Conan**.
+
+## 🎓 Education
+
+### **M.Sc. in Telecommunication Engineering** - *Xidian University, Xi’an, China*
+
+*2021 - 2024*
+
+- **Research Focus**: XL-RIS Beamforming and Channel Estimation.
+
+### **B.Sc. in Electrical Engineering** - *Ibb University, Ibb, Yemen*
+
+*2014 - 2019*
   
 ## Publications:  
 [1] W. Al-Asad, W.-X. Long, M. Moretti, and R. Chen, “Low-Overhead Channel Estimation and Beamforming with Near/Far-Field Connection for Extra-Large RIS Communications,” in *GLOBECOM 2024 – 2024 IEEE Global Communications Conference*, 2024, pp. 674–679. [DOI:10.1109/GLOBECOM52923.2024.10901452](https://doi.org/10.1109/GLOBECOM52923.2024.10901452)
@@ -78,18 +90,6 @@ I'm **Wail Al-Asad**, a passionate software developer and a graduated student sp
 *July 2019 - April 2020*
 
 - Taught Microprocessor and Assembly Lab, Digital Communication Labs, AI Lab, Algorithms, and Data Structure Labs.
-
-## 🎓 Education
-
-### **M.Sc. in Telecommunication Engineering** - *Xidian University, Xi’an, China*
-
-*2021 - 2024*
-
-- **Research Focus**: XL-RIS Beamforming and Channel Estimation.
-
-### **B.Sc. in Electrical Engineering** - *Ibb University, Ibb, Yemen*
-
-*2014 - 2019*
 
 ## 🌐 Languages
 
